@@ -1,6 +1,6 @@
 # Snoopy
 
-A native macOS menu-bar prototype that checks the upper-right notification-banner area every two seconds. When that area changes substantially and contains readable text, it sends the cropped image and OCR hint to Codex CLI. Codex immediately acknowledges the request in a Slack self-DM, researches it with current sources, and follows up with the answer. Results stay in the menu and log dashboard rather than generating another notification, which avoids a feedback loop.
+Snoopy helps you execute tasks in the background by watching your notifications while you work. When an actionable request appears, Snoopy hands it to Codex, keeps you updated in Slack, and sends you the result when the work is done.
 
 Built for [Agents Everywhere: Beyond the Chatbot — Global Hackathon with OpenAI](https://nyc.aitinkerers.org/p/agents-everywhere-beyond-the-chatbot-global-hackathon-with-openai).
 
