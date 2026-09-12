@@ -3,14 +3,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "NotificationClaude",
+    name: "Snoopy",
     platforms: [.macOS(.v14)],
     products: [
-        .executable(name: "NotificationClaude", targets: ["NotificationClaude"])
+        .executable(name: "Snoopy", targets: ["Snoopy"])
     ],
     targets: [
         .executableTarget(
-            name: "NotificationClaude",
+            name: "Snoopy",
             swiftSettings: [.swiftLanguageMode(.v5)]
         )
     ]

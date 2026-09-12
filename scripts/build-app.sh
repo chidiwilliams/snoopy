@@ -14,7 +14,7 @@ cd "$repo_dir"
 swift build -c release
 
 mkdir -p "$stage_app/Contents/MacOS" "$stage_app/Contents/Resources"
-cp ".build/release/NotificationClaude" "$stage_app/Contents/MacOS/NotificationClaude"
+cp ".build/release/Snoopy" "$stage_app/Contents/MacOS/Snoopy"
 cp "Resources/Info.plist" "$stage_app/Contents/Info.plist"
 xattr -cr "$stage_app"
 

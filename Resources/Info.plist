@@ -5,7 +5,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleExecutable</key>
-    <string>NotificationClaude</string>
+    <string>Snoopy</string>
     <key>CFBundleIdentifier</key>
     <string>com.chidiwilliams.notificationclaude</string>
     <key>CFBundleInfoDictionaryVersion</key>
