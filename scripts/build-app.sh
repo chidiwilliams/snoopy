@@ -25,8 +25,8 @@ else
   codesign --force --sign - "$stage_app"
 fi
 
+codesign --verify --deep --strict "$stage_app"
 rm -rf "$app_dir"
 ditto --noextattr --noqtn "$stage_app" "$app_dir"
-codesign --verify --deep --strict "$app_dir"
 
 echo "$app_dir"
