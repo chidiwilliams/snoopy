@@ -2,9 +2,7 @@
 
 Snoopy helps you execute tasks in the background by watching your notifications while you work. When an actionable request appears, Snoopy hands it to Codex, keeps you updated in Slack, and sends you the result when the work is done.
 
-Built in New York City on September 12, 2026, for [Agents Everywhere: Beyond the Chatbot — Global Hackathon with OpenAI](https://nyc.aitinkerers.org/p/agents-everywhere-beyond-the-chatbot-global-hackathon-with-openai).
-
-Built with Codex.
+Built with Codex for [Agents Everywhere: Beyond the Chatbot](https://nyc.aitinkerers.org/p/agents-everywhere-beyond-the-chatbot-global-hackathon-with-openai), a global hackathon with OpenAI held in New York City on September 12, 2026.
 
 ## Build and run
 
