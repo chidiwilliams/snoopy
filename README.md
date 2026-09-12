@@ -4,6 +4,8 @@ Snoopy helps you execute tasks in the background by watching your notifications 
 
 Built in New York City on September 12, 2026, for [Agents Everywhere: Beyond the Chatbot — Global Hackathon with OpenAI](https://nyc.aitinkerers.org/p/agents-everywhere-beyond-the-chatbot-global-hackathon-with-openai).
 
+Built with Codex.
+
 ## Build and run
 
 ```sh
